@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--  Copyright (C) 2014-2016 The Dirty Unicorns Project
+      Copyright (C) 2016 AospExtended ROM Project
+
+  This program is free software: you can redistribute it and/or modify
+  it under the terms of the GNU General Public License as published by
+  the Free Software Foundation, either version 3 of the License, or
+  (at your option) any later version
+
+  This program is distributed in the hope that it will be useful,
+  but WITHOUT ANY WARRANTY; without even the implied warranty of
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+  GNU General Public License for more details.
+
+  You should have received a copy of the GNU General Public License
+  along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ -->
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="donation_category" translatable="false">关于捐赠</string>
+    <string name="donation_category_summary" translatable="false">捐赠名单</string>
+    <string name="donate_me" translatable="false">捐赠我</string>
+
+    <string name="donate_title" translatable="false">感谢大家的支持</string>
+    <string name="donate_1" translatable="false">略略略木头</string>
+    <string name="donate_2" translatable="false">啊我是米粉啊</string>
+    <string name="donate_3" translatable="false">推特捷哥</string>
+    <string name="donate_4" translatable="false">LiYangKA</string>
+    <string name="donate_5" translatable="false">夏沫</string>
+    <string name="donate_6" translatable="false">魏无羡吖</string>
+    <string name="donate_7" translatable="false">哩小蛋</string>
+    <string name="donate_8" translatable="false">贪欲丶</string>
+    <string name="donate_9" translatable="false">浮沉饕餮说</string>
+    <string name="donate_10" translatable="false">宁静安详</string>
+    <string name="donate_11" translatable="false">叉烧丶</string>
+    <string name="donate_12" translatable="false">彭进棋</string>
+    <string name="donate_13" translatable="false">晴天热意多</string>
+    <string name="donate_14" translatable="false">抢了我辣条还想跑</string>
+    <string name="donate_15" translatable="false">某滑稽苟</string>
+    <string name="donate_16" translatable="false">要嫁就嫁灰太狼</string>
+    <string name="donate_17" translatable="false">朝倉ハリ</string>
+    <string name="donate_18" translatable="false">喜欢浪的二哈</string>
+    <string name="donate_19" translatable="false">建明电脑</string>
+    <string name="donate_20" translatable="false">在河之洲、</string>
+    <string name="donate_21" translatable="false">海月姐姐</string>
+    <string name="donate_22" translatable="false">DonGD</string>
+    <string name="donate_23" translatable="false">吴小YE</string>
+
+</resources>

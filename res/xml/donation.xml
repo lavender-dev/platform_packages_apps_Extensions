@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/donation_category"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
+
+    <PreferenceCategory
+        android:key="developer_category"
+        android:title="@string/donate_title">
+
+        <Preference
+            android:title="@string/donate_1">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2407946"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_2">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2412823"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_3">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2133027"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_4">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2830906"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_5">
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_6">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2312236"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_7">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1443564"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_8">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/548974"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_9">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2080997"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_10">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1471274"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_11">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1923982"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_12">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1320311"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_13">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1335614"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_14">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1923744"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_15">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1320311"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_16">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/751374"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_17">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1809499"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_18">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1608787"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_19">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2151072"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_20">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/2752628"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_21">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/992425"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_22">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/490283"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_23">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1964302"/>
+        </Preference>
+
+        <Preference
+            android:title="@string/donate_me">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:data="http://www.coolapk.com/u/1122838"/>
+        </Preference>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

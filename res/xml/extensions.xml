@@ -57,4 +57,11 @@
     android:summary="@string/system_category_summary"
     android:fragment="org.aospextended.extensions.categories.System"/>
 
+<org.aospextended.extensions.preference.CardviewPreference
+    android:key="donation_category"
+    android:icon="@drawable/ic_recents_category"
+    android:title="@string/donation_category"
+    android:summary="@string/donation_category_summary"
+    android:fragment="org.aospextended.extensions.categories.Donation"/>
+
 </PreferenceScreen>
